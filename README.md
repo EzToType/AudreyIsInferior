@@ -62,7 +62,7 @@ body {
 <div class="clearfix">
   <div class="column menu">
     <ul>
-      <li><div onclick="location.href='https://eztotype.github.io/About/';" >terms and conditions</div>
+      <li><div onclick="location.href='https://eztotype.github.io/Terms-And-Conditions/';" >terms and conditions</div>
 </li>
       <li><div onclick="location.href='https://eztotype.github.io/Energy-Usage-Theme-2/';" >why im not gay and Audrey is</div>
 </li>
