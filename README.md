@@ -64,7 +64,7 @@ body {
     <ul>
       <li><div onclick="location.href='https://eztotype.github.io/Terms-And-Conditions/';" >terms and conditions</div>
 </li>
-      <li><div onclick="location.href='https://eztotype.github.io/Energy-Usage-Theme-2/';" >why im not gay and Audrey is</div>
+      <li><div onclick="location.href='';" >why im not gay and Audrey is</div>
 </li>
       <li><div onclick="';" >Havn't thought of what to put here yet</div></li>
       
